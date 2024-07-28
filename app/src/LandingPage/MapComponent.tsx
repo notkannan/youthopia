@@ -58,7 +58,7 @@ const MapContainer = ({ google }) => {
   );
 };
 export default GoogleApiWrapper({
-  apiKey: 'AIzaSyCWLOWG5I01EmjmhN_rQzpv0nRAuR9Bi9o', // Replace with your Google Maps API key
+  apiKey: '', // Replace with your Google Maps API key
   libraries: ['places'],
   LoadingContainer: () => <div>Loading...</div> 
 })(MapContainer);
