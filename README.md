@@ -1,6 +1,6 @@
-### Youthopia
+# Youthopia
 
-# Front end Code Documentation of Youthopia.
+### Front end Code Documentation of Youthopia.
 
 Welcome to Youthopia, an inclusive online platform dedicated to empowering youth through diverse developmental opportunities. This repository contains the codebase for the Youthopia website.
 
